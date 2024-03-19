@@ -7,6 +7,8 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: About
+        href: about.qmd
       - text: EDA
         href: eda.qmd
       - text: Model
@@ -15,8 +17,4 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: true
-
-
-

@@ -1,5 +1,8 @@
 ---
-title: "About"
+title: "Exploring the Palmer Penguins Data"
 ---
 
-About this site
+This site contains two pages of interest:
+
+- EDA - to explore the palmerpenguins data.
+- Model - to calculate statistical values after fitting a linear regression model on the data.
